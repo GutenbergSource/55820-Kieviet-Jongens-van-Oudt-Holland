@@ -1,0 +1,46 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="85085" filedate="2017-10-22 15:54:40" width="720px" height="479px">
+</image>
+<image path="images/ornament.png" filesize="9058" filedate="2017-10-22 16:05:07" width="547px" height="59px">
+</image>
+<image path="images/p026.jpg" filesize="36253" filedate="2017-10-22 16:13:00" width="452px" height="251px">
+</image>
+<image path="images/p044.jpg" filesize="29542" filedate="2017-10-22 16:15:03" width="321px" height="381px">
+</image>
+<image path="images/p067.jpg" filesize="99297" filedate="2017-10-22 16:19:27" width="497px" height="720px">
+</image>
+<image path="images/p086.jpg" filesize="40852" filedate="2017-10-23 13:40:41" width="582px" height="260px">
+</image>
+<image path="images/p116-1.jpg" filesize="21675" filedate="2017-10-23 13:43:39" width="310px" height="241px">
+</image>
+<image path="images/p116-2.jpg" filesize="89500" filedate="2017-10-22 15:57:37" width="479px" height="720px">
+</image>
+<image path="images/p167.jpg" filesize="63942" filedate="2017-10-23 13:50:16" width="330px" height="664px">
+</image>
+<image path="images/p177.png" filesize="20883" filedate="2017-10-22 16:08:41" width="503px" height="355px">
+</image>
+<image path="images/p178.jpg" filesize="39151" filedate="2017-10-23 13:52:47" width="303px" height="644px">
+</image>
+<image path="images/p180.jpg" filesize="77463" filedate="2017-10-22 16:00:25" width="479px" height="720px">
+</image>
+<image path="images/p194.jpg" filesize="48364" filedate="2017-10-23 13:56:11" width="583px" height="561px">
+</image>
+<image path="images/p217.jpg" filesize="74035" filedate="2017-10-22 16:03:01" width="478px" height="720px">
+</image>
+<image path="images/p225.jpg" filesize="67310" filedate="2017-10-23 13:58:54" width="499px" height="477px">
+</image>
+<image path="images/p235.jpg" filesize="33426" filedate="2017-10-23 14:01:37" width="376px" height="393px">
+</image>
+<image path="images/schutblad.jpg" filesize="83119" filedate="2017-10-23 14:03:28" width="474px" height="720px">
+</image>
+<image path="images/titelpagina.jpg" filesize="34501" filedate="2013-02-22 07:58:09" width="486px" height="720px">
+</image>
+<image path="images/voorkant.jpg" filesize="74498" filedate="2013-02-22 07:53:23" width="521px" height="720px">
+</image>
+</images>
